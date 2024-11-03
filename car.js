@@ -2,8 +2,8 @@ const car = document.getElementById('car');
 const obstacles = document.querySelectorAll('.obstacle');
 const road = document.getElementById('road');
 
-let carPosition = 50; // Initial position of the car
-let obstacleSpeed = 2; // Speed of the obstacles
+let carPosition = 50; 
+let obstacleSpeed = 2; 
 let score = 0;
 
 function moveCar(event) {
@@ -20,9 +20,9 @@ function moveObstacles() {
     obstacles.forEach(obstacle => {
         let obstacleTop = parseInt(window.getComputedStyle(obstacle).getPropertyValue('top'));
         if (obstacleTop > 600) {
-            obstacleTop = -80; // Reset the obstacle to the top
+            obstacleTop = -80; 
             score++;
-            obstacle.style.left = `${Math.random() * (road.clientWidth - 40)}px`; // Randomize position
+            obstacle.style.left = `${Math.random() * (road.clientWidth - 40)}px`; 
         }
         obstacle.style.top = `${obstacleTop + obstacleSpeed}px`;
         obstacle.style.left = `${obstacle.style.left}`;
@@ -57,7 +57,7 @@ function checkCollision() {
 function resetGame() {
     score = 0;
     obstacles.forEach(obstacle => {
-        obstacle.style.top = `${Math.random() * -600}px`; // Reset obstacle position
+        obstacle.style.top = `${Math.random() * -600}px`; 
     });
 }
 

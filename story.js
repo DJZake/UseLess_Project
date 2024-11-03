@@ -19,13 +19,13 @@ function typeStory() {
     if (typingIndex < story.length) {
         storyDiv.textContent += story.charAt(typingIndex);
         typingIndex++;
-        setTimeout(typeStory, 75); // Slightly slower typing for a cute effect
+        setTimeout(typeStory, 75); 
     }
 }
 
 addSentenceButton.addEventListener('click', () => {
     const randomIndex = Math.floor(Math.random() * sentences.length);
-    story += sentences[randomIndex] + "\n\n"; // Extra space for cuteness
+    story += sentences[randomIndex] + "\n\n"; 
     typingIndex = 0;
     typeStory();
 });

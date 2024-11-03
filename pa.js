@@ -19,7 +19,7 @@ function draw(e) {
     if (!painting) return;
     ctx.lineWidth = 5;
     ctx.lineCap = 'round';
-    ctx.strokeStyle = isEraser ? '#ffffff' : color; // Use white for the eraser
+    ctx.strokeStyle = isEraser ? '#ffffff' : color; 
 
     ctx.lineTo(e.clientX - canvas.offsetLeft, e.clientY - canvas.offsetTop);
     ctx.stroke();
