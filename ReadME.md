@@ -50,7 +50,10 @@ Welcome to *The Useless Projects*, the ultimate destination for when you want to
 11. **Reasons to Procrastinate** 💤💅: Need an excuse to *not be productive*? We gotchu. This page serves up *very valid* reasons to keep procrastinating like a *pro* 😌.
 
 12. **Dummy URL Shortener** 🔗✂️: Want a shorter link? Too bad. This tool will take your link and give you a *longer*, pointless URL. Because why make things easy?
+    
+13. **Useless Calculator ➕🌀➖💫: Ever wanted a calculator that does absolutely nothing? Look no further! The Useless Calculator is a sleek, stylish, non-functional addition to your desktop.**
 
+    
 ---
 
 **NEW:** **Undeniable Yes or No Page** 👉💌
@@ -102,54 +105,38 @@ none
 ### Implementation
 VS CODE
 # Installation
-[commands]
+There is no need for installation
 
 # Run
-[commands]
+The link to the project is : https://alenjoseph.me/UseLess_Project/
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![1](https://github.com/user-attachments/assets/7e23efe5-0c60-4642-bca1-42354ca91fec)
+**HOME PAGE
+*This is the home page of our project that contain mutliple fun mini projects. 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![2](https://github.com/user-attachments/assets/0c2a8324-73fc-4fd6-8433-327e85a903b3)
+**DOGO GPT
+*This is a replication of chatgpt 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![3](https://github.com/user-attachments/assets/d56525b5-e4ae-4304-88e2-c3d462817a25)
+**PEPE'S ADVENTURE
 
-For Hardware:
+*THis is the exact dino game but the game feautures PEPE the frog
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1wTYtPK_y0LDViXvJ-RZnS_xsny9iRA2A/view?usp=drive_link
+*The video demonstrate the working of the project!!
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1wTYtPK_y0LDViXvJ-RZnS_xsny9iRA2A/view?usp=drive_link
 
 ## Team Contributions
 ### *The Useless Projects* - Equal Contribution Breakdown
@@ -167,6 +154,8 @@ For Hardware:
 4. **Adore-O-Metre** 💖: Create a compatibility calculator that gauges how *soulmatey* you and your crush are—based solely on vibes and whims.
 
 5. **Multiplayer Tic Tac Toe** ❌⭕: Create a classic game for two players to challenge each other in a battle of wits.
+
+6. **Calculator** : explore the valleys of unknown calculations.
 
 ---
 
